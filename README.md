@@ -1,1 +1,1 @@
-# FMML_ASSIGINMENT1
+# IIIT Hyderabad Foundations of Modern Machine Learning Course Assignments.
